@@ -1,0 +1,40 @@
+#footerpai{
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+    
+    
+}
+
+.pfootter1{
+    
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    
+  
+}
+
+.pfootter2{
+
+   padding: 0;
+   margin: 0;
+   margin-right: 15px;
+   font-weight: 600;
+   
+   
+  
+}
+
+.footerfilho{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.linksredsocial{
+    margin-right: 5px;
+}

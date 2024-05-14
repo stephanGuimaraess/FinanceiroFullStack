@@ -1,0 +1,23 @@
+#LinkGe{
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.resumoedit{
+
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.logoutTopo{
+
+    margin-left: 85%;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.logoutTopo:hover{
+    color: red;
+}

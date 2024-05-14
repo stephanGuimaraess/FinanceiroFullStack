@@ -1,0 +1,53 @@
+.divnavbar{
+
+    width: 100%;
+    height: 15vh;
+
+}
+
+.divcorpo{
+
+    width: 100%;
+    height: 81.3vh;
+
+}
+
+.divfooter{
+
+    width: 100%;
+}
+
+
+  .divpaipagina{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+  }
+
+  @media (max-width: 767px) {
+    .divnavbar{
+
+        width: 100%;
+        
+    
+    }
+    
+    .divcorpo{
+    
+        width: 100%;
+       
+    
+    }
+    
+    .divfooter{
+    
+        position: relative;
+        bottom: -420px;
+    }
+
+    
+
+    
+  }
